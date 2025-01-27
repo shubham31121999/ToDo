@@ -1,0 +1,34 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folder
+venv/
+.env/
+
+# Flask instance folder
+instance/
+
+# Flask migrations folder
+migrations/
+
+# Database file (SQLite)
+todo.db
+
+# .env file for environment variables (if used)
+.env
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
